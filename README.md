@@ -6,9 +6,9 @@
 
 使用的教材是：**《计算机网络》、《计算机网络-自顶向下方法》**
 
-Quiz 链接：Quiz
+Quiz 链接：[Quiz](https://github.com/david990917/Computer-Networks/tree/main/Quiz)
 
-Homework 导航：Homework
+Homework 导航：[Homework](https://github.com/david990917/Computer-Networks/tree/main/Homework)
 
 ---
 
